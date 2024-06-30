@@ -2,7 +2,7 @@
   "name": "client",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://iyaja.github.io/team-11",
+  "homepage": "https://katrinalui.github.io/project-arya",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
